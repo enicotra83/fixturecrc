@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "fecha": "12/03/2022",
+    "hora": "16:30hs",
+    "local": "Draigh Goch RC",
+    "localImg": "draighgoch.jpeg",
+    "visitante": "Comodoro Rugby Club",
+    "visitanteImg": "crc.png",
+    "referee": "Faimali",
+    "resultado": "22 - 27"
+  },
+  {
+    "id": 2,
+    "fecha": "19/03/2022",
+    "hora": "  .  ",
+    "local": "Comodoro Rugby Club",
+    "localImg": "crc.png",
+    "visitante": "San Jorge RC",
+    "visitanteImg": "sanjorge.jpg",
+    "referee": "",
+    "resultado": "PG - PP"
+  },
+  {
+    "id": 3,
+    "fecha": "26/03/2022",
+    "hora": "15:00hs",
+    "local": "Puerto Madryn RC",
+    "localImg": "madryn.jpg",
+    "visitante": "Comodoro Rugby Club",
+    "visitanteImg": "crc.png",
+    "referee": "Celan",
+    "resultado": "22 - 44"
+  },
+  {
+    "id": 4,
+    "fecha": "02/04/2022",
+    "hora": "16:00hs",
+    "local": "Comodoro Rugby Club",
+    "localImg": "crc.png",
+    "visitante": "Patoruzu RC",
+    "visitanteImg": "patoruzu.jpg",
+    "referee": "Novas",
+    "resultado": "37 - 21"
+  },
+  {
+    "id": 5,
+    "fecha": "09/04/2022",
+    "hora": "15:15hs",
+    "local": "Comodoro Rugby Club",
+    "localImg": "crc.png",
+    "visitante": "Calafate RC",
+    "visitanteImg": "calafate.png",
+    "referee": "Kononczuck",
+    "resultado": "24 - 33"
+  }
+]
